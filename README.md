@@ -4,4 +4,8 @@
 
 ## Credits
 
-**design:** [UIDesignDaily](https://www.uidesigndaily.com/posts/figma-create-account-sign-up-day-1420)
+**design:**
+
+[UIDesignDaily](https://www.uidesigndaily.com/posts/figma-create-account-sign-up-day-1420)
+<br/>
+[Ildiko Gaspar](https://twitter.com/Ildiesign)
