@@ -14,6 +14,7 @@ body {
   display: grid;
   place-content: center;
   line-height: 1.6;
+  padding: 2em;
 }
 
 button {
@@ -90,7 +91,22 @@ button:focus {
   background-color: #487ab3;
 }
 
+.updates-checkbox {
+  padding: 0 1em;
+}
+
 .updates-checkbox label {
   margin-left: 0.2em;
   font-size: 0.8em;
+}
+
+@media screen and (max-width: 480px) {
+  .card {
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+
+  .actions {
+    margin-top: 2em;
+  }
 }
